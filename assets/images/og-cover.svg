@@ -1,1 +1,43 @@
-bfh
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#073d2f"/>
+  <circle cx="1010" cy="90" r="260" fill="#0b5a43"/>
+
+  <path
+    d="M800 330 960 190l160 140v170H990V390h-60v110H800Z"
+    fill="#ffffff"
+    opacity="0.95"
+  />
+
+  <text
+    x="90"
+    y="260"
+    fill="#e5a72e"
+    font-size="34"
+    font-family="Arial, sans-serif"
+    font-weight="700"
+  >
+    HOME LOAN SUPPORT
+  </text>
+
+  <text
+    x="90"
+    y="340"
+    fill="#ffffff"
+    font-size="70"
+    font-family="Arial, sans-serif"
+    font-weight="700"
+  >
+    Clarity before
+  </text>
+
+  <text
+    x="90"
+    y="420"
+    fill="#ffffff"
+    font-size="70"
+    font-family="Arial, sans-serif"
+    font-weight="700"
+  >
+    commitment.
+  </text>
+</svg>
